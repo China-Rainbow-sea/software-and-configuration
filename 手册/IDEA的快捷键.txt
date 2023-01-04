@@ -1,0 +1,9 @@
+IDEA的快捷键:
+反撤销: ctrl+shift+z，try~catch环绕: ctrl+alt+t
+删除行代码：ctrl+y，切换到下一行代码: shift+enter
+向下移动一行： alt+shift+上键，方法的形参提示：ctrl+p
+搜索：ctrl+n，批量修改: shift+F6
+显示当前类的所有: 方法，属性等: ctrl+F12，查看指定类的，继承树结构：ctrl + h
+查看方法文档：ctrl +q，查看类的UML关系图: Diagrams
+文档查找: ctir+r/f(ctir+f win自带的)，全项目搜索文本: ctrl+shift+f
+整体代码格式整理：Ctrl+Alt+L
