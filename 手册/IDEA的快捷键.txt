@@ -5,5 +5,6 @@ IDEA的快捷键:
 搜索：ctrl+n，批量修改: shift+F6
 显示当前类的所有: 方法，属性等: ctrl+F12，查看指定类的，继承树结构：ctrl + h
 查看方法文档：ctrl +q，查看类的UML关系图: Diagrams
+查看该方法，属性，在哪被使用: 选择(方法/属性)右键->Find Usages(发现用法)，快捷键: ctrl+alt+h(模块->包->类->方法->行)
 文档查找: ctir+r/f(ctir+f win自带的)，全项目搜索文本: ctrl+shift+f
 整体代码格式整理：Ctrl+Alt+L
