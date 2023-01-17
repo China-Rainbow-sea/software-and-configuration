@@ -8,3 +8,5 @@ IDEA的快捷键:
 查看该方法，属性，在哪被使用: 选择(方法/属性)右键->Find Usages(发现用法)，快捷键: ctrl+alt+h(模块->包->类->方法->行)
 文档查找: ctir+r/f(ctir+f win自带的)，全项目搜索文本: ctrl+shift+f
 整体代码格式整理：Ctrl+Alt+L
+批量同步操作处理：Shift + Alt / Shift + Alt +A 
+将一段代码提取成方法: Ctrl+Alt+M
