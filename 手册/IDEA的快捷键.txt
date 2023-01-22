@@ -10,3 +10,5 @@ IDEA的快捷键:
 整体代码格式整理：Ctrl+Alt+L
 批量同步操作处理：Shift + Alt / Shift + Alt +A 
 将一段代码提取成方法: Ctrl+Alt+M
+当前文件内容替换 Ctrl+r
+用于路径中的替换 ctrl+shift+r
