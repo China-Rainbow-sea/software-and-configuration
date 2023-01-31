@@ -12,3 +12,5 @@ IDEA的快捷键:
 将一段代码提取成方法: Ctrl+Alt+M
 当前文件内容替换 Ctrl+r
 用于路径中的替换 ctrl+shift+r
+Diagrams(图表)：Ctrl+alt+B / 空格 搜索显示
+Diagrams(图表)：接口名/类名右键->Jump to Source 跳转源码
