@@ -1,0 +1,80 @@
+================================================================================
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+================================================================================
+
+Apache Tomcat re-uses code from a number of other Apache projects. There are
+several reasons why depending on the binary releases of those projects is not
+ideal. These include:
+- potential conflicts if a web application ships with the same JAR
+- a large JAR where Tomcat only depends on a small fraction
+
+
+GIT
+===
+
+Updates from Git are applied manually via patch files. Patch files are generated
+using:
+git diff <last SHA1>:<sub-tree> HEAD:<sub-tree> > temp.patch
+The most recently merged SHA1 for the component below should be updated after
+the patch file has been applied and committed
+
+BCEL
+----
+Sub-tree:
+src/main/java/org/apache/bcel
+The SHA1 ID / tag for the most recent commit to be merged to Tomcat is:
+40d5eb4eda290c74b533f389fbc4e3495a4513f6 (2021-09-01)
+
+Codec
+-----
+Sub-tree:
+src/main/java/org/apache/commons/codec
+The SHA1 ID / tag for the most recent commit to be merged to Tomcat is:
+fd44e6b491c9d606d0b91ac0029269d265024cd9 (2021-09-01)
+Note: Only classes required for Base64 encoding/decoding. The rest are removed.
+
+FileUpload
+----------
+Sub-tree:
+src/main/java/org/apache/commons/fileupload2
+The SHA1 ID / tag for the most recent commit to be merged to Tomcat is:
+33d2d79230bb851642435821b380904d24752ee1 (2021-09-01)
+
+Note: Tomcat's copy of fileupload also includes classes copied manually from
+      Commons IO.
+
+DBCP
+----
+Pool2
+Sub-tree
+src/main/java/org/apache/commons/pool2
+The SHA1 ID / tag for the most recent commit to be merged to Tomcat is:
+0da5c540983485565f08711bf986e1ea43b162f3 (2021-02-02)
+Note: Commits after this point started to make extensive use of the java.time.*
+      package which is not available in Java 7. It is anticipated that further
+      changes to the Pool 2 fork in Tomcat 8.5.x will be limited to on-demand
+      back-port of bug fixes.
+
+DBCP2
+Sub-tree
+src/main/java/org/apache/commons/dbcp2
+src/main/resources/org/apache/commons/dbcp2
+The SHA1 ID / tag for the most recent commit to be merged to Tomcat is:
+1a0e9e8a61b7e8327a159516907778cd74da7a3b (2021-06-05)
+Note: Commits after this point started to make extensive use of the java.time.*
+      package which is not available in Java 7. It is anticipated that further
+      changes to the DBCP 2 fork in Tomcat 8.5.x will be limited to on-demand
+      back-port of bug fixes.

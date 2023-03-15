@@ -1,0 +1,109 @@
+13-Mar-2023 19:59:23.554 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.82
+13-Mar-2023 19:59:23.562 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Aug 8 2022 21:26:07 UTC
+13-Mar-2023 19:59:23.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.82.0
+13-Mar-2023 19:59:23.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+13-Mar-2023 19:59:23.600 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+13-Mar-2023 19:59:23.600 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+13-Mar-2023 19:59:23.601 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Program Files\Java\jdk1.8.0_202\jre
+13-Mar-2023 19:59:23.601 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_202-b08
+13-Mar-2023 19:59:23.602 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+13-Mar-2023 19:59:23.602 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\dev\tomcat8
+13-Mar-2023 19:59:23.602 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\dev\tomcat8
+13-Mar-2023 19:59:23.603 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=D:\dev\tomcat8\conf\logging.properties
+13-Mar-2023 19:59:23.603 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Mar-2023 19:59:23.603 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+13-Mar-2023 19:59:23.603 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Mar-2023 19:59:23.603 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+13-Mar-2023 19:59:23.604 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=D:\dev\tomcat8
+13-Mar-2023 19:59:23.604 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=D:\dev\tomcat8
+13-Mar-2023 19:59:23.604 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=D:\dev\tomcat8\temp
+13-Mar-2023 19:59:23.605 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.35]。
+13-Mar-2023 19:59:23.605 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]、UDS [{4}]。
+13-Mar-2023 19:59:23.606 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+13-Mar-2023 19:59:23.623 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1q  5 Jul 2022]
+13-Mar-2023 19:59:26.212 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.82
+13-Mar-2023 19:59:26.220 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Aug 8 2022 21:26:07 UTC
+13-Mar-2023 19:59:26.221 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.82.0
+13-Mar-2023 19:59:26.222 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+13-Mar-2023 19:59:26.222 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+13-Mar-2023 19:59:26.222 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+13-Mar-2023 19:59:26.222 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Program Files\Java\jdk1.8.0_202\jre
+13-Mar-2023 19:59:26.223 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_202-b08
+13-Mar-2023 19:59:26.223 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+13-Mar-2023 19:59:26.223 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\dev\tomcat8
+13-Mar-2023 19:59:26.223 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\dev\tomcat8
+13-Mar-2023 19:59:26.223 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=D:\dev\tomcat8\conf\logging.properties
+13-Mar-2023 19:59:26.223 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Mar-2023 19:59:26.224 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+13-Mar-2023 19:59:26.224 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Mar-2023 19:59:26.224 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+13-Mar-2023 19:59:26.224 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=D:\dev\tomcat8
+13-Mar-2023 19:59:26.224 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=D:\dev\tomcat8
+13-Mar-2023 19:59:26.225 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=D:\dev\tomcat8\temp
+13-Mar-2023 19:59:26.225 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.35]。
+13-Mar-2023 19:59:26.226 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]、UDS [{4}]。
+13-Mar-2023 19:59:26.226 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+13-Mar-2023 19:59:26.230 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1q  5 Jul 2022]
+13-Mar-2023 19:59:26.430 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+13-Mar-2023 19:59:26.441 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 421 ms
+13-Mar-2023 19:59:26.467 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+13-Mar-2023 19:59:26.467 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/8.5.82]
+13-Mar-2023 19:59:26.523 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\dev\tomcat8\webapps\docs]
+13-Mar-2023 19:59:26.819 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[178]毫秒。
+13-Mar-2023 19:59:26.832 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\dev\tomcat8\webapps\docs]的部署已在[309]毫秒内完成
+13-Mar-2023 19:59:26.857 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\dev\tomcat8\webapps\examples]
+13-Mar-2023 19:59:27.950 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\dev\tomcat8\webapps\examples]的部署已在[1,093]毫秒内完成
+13-Mar-2023 19:59:27.951 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\dev\tomcat8\webapps\host-manager]
+13-Mar-2023 19:59:27.970 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\dev\tomcat8\webapps\host-manager]的部署已在[19]毫秒内完成
+13-Mar-2023 19:59:27.972 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\dev\tomcat8\webapps\manager]
+13-Mar-2023 19:59:27.986 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\dev\tomcat8\webapps\manager]的部署已在[14]毫秒内完成
+13-Mar-2023 19:59:27.987 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\dev\tomcat8\webapps\ROOT]
+13-Mar-2023 19:59:27.997 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\dev\tomcat8\webapps\ROOT]的部署已在[10]毫秒内完成
+13-Mar-2023 19:59:27.998 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\dev\tomcat8\webapps\Test]
+13-Mar-2023 19:59:32.163 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Mar-2023 19:59:32.238 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\dev\tomcat8\webapps\Test]的部署已在[4,240]毫秒内完成
+13-Mar-2023 19:59:32.255 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+13-Mar-2023 19:59:32.278 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 5830 ms
+13-Mar-2023 19:59:42.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.82
+13-Mar-2023 19:59:42.633 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Aug 8 2022 21:26:07 UTC
+13-Mar-2023 19:59:42.634 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.82.0
+13-Mar-2023 19:59:42.634 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+13-Mar-2023 19:59:42.635 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+13-Mar-2023 19:59:42.635 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+13-Mar-2023 19:59:42.635 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Program Files\Java\jdk1.8.0_202\jre
+13-Mar-2023 19:59:42.635 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_202-b08
+13-Mar-2023 19:59:42.635 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+13-Mar-2023 19:59:42.635 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\dev\tomcat8
+13-Mar-2023 19:59:42.635 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\dev\tomcat8
+13-Mar-2023 19:59:42.636 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=D:\dev\tomcat8\conf\logging.properties
+13-Mar-2023 19:59:42.636 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Mar-2023 19:59:42.636 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+13-Mar-2023 19:59:42.636 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Mar-2023 19:59:42.636 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+13-Mar-2023 19:59:42.636 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=D:\dev\tomcat8
+13-Mar-2023 19:59:42.637 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=D:\dev\tomcat8
+13-Mar-2023 19:59:42.637 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=D:\dev\tomcat8\temp
+13-Mar-2023 19:59:42.638 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.35]。
+13-Mar-2023 19:59:42.638 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]、UDS [{4}]。
+13-Mar-2023 19:59:42.638 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+13-Mar-2023 19:59:42.642 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1q  5 Jul 2022]
+13-Mar-2023 19:59:42.809 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+13-Mar-2023 19:59:42.822 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 391 ms
+13-Mar-2023 19:59:42.838 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+13-Mar-2023 19:59:42.838 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/8.5.82]
+13-Mar-2023 19:59:42.844 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\dev\tomcat8\webapps\docs]
+13-Mar-2023 19:59:43.138 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[188]毫秒。
+13-Mar-2023 19:59:43.149 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\dev\tomcat8\webapps\docs]的部署已在[305]毫秒内完成
+13-Mar-2023 19:59:43.150 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\dev\tomcat8\webapps\examples]
+13-Mar-2023 19:59:43.326 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\dev\tomcat8\webapps\examples]的部署已在[176]毫秒内完成
+13-Mar-2023 19:59:43.326 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\dev\tomcat8\webapps\host-manager]
+13-Mar-2023 19:59:43.342 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\dev\tomcat8\webapps\host-manager]的部署已在[16]毫秒内完成
+13-Mar-2023 19:59:43.343 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\dev\tomcat8\webapps\manager]
+13-Mar-2023 19:59:43.355 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\dev\tomcat8\webapps\manager]的部署已在[12]毫秒内完成
+13-Mar-2023 19:59:43.355 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\dev\tomcat8\webapps\ROOT]
+13-Mar-2023 19:59:43.365 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\dev\tomcat8\webapps\ROOT]的部署已在[10]毫秒内完成
+13-Mar-2023 19:59:43.365 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\dev\tomcat8\webapps\Test]
+13-Mar-2023 19:59:43.554 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Mar-2023 19:59:43.596 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\dev\tomcat8\webapps\Test]的部署已在[231]毫秒内完成
+13-Mar-2023 19:59:43.598 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+13-Mar-2023 19:59:43.644 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 821 ms

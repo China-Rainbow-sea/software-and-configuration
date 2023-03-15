@@ -1,0 +1,17 @@
+127.0.0.1 - - [15/Mar/2023:09:26:27 +0800] "GET / HTTP/1.1" 200 11428
+127.0.0.1 - - [15/Mar/2023:09:26:27 +0800] "GET /tomcat.svg HTTP/1.1" 200 68761
+127.0.0.1 - - [15/Mar/2023:09:26:27 +0800] "GET /tomcat.css HTTP/1.1" 200 5895
+127.0.0.1 - - [15/Mar/2023:09:26:27 +0800] "GET /bg-nav.png HTTP/1.1" 200 1401
+127.0.0.1 - - [15/Mar/2023:09:26:27 +0800] "GET /asf-logo-wide.svg HTTP/1.1" 200 27530
+127.0.0.1 - - [15/Mar/2023:09:26:27 +0800] "GET /bg-button.png HTTP/1.1" 200 713
+127.0.0.1 - - [15/Mar/2023:09:26:27 +0800] "GET /bg-middle.png HTTP/1.1" 200 1918
+127.0.0.1 - - [15/Mar/2023:09:26:27 +0800] "GET /bg-upper.png HTTP/1.1" 200 3103
+127.0.0.1 - - [15/Mar/2023:09:26:27 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [15/Mar/2023:09:26:46 +0800] "GET /crm//RainbowSea/Rainbow/Sea HTTP/1.1" 200 66
+127.0.0.1 - - [15/Mar/2023:09:36:11 +0800] "GET / HTTP/1.1" 200 11428
+127.0.0.1 - - [15/Mar/2023:09:36:22 +0800] "GET /crm/index.html HTTP/1.1" 200 407
+127.0.0.1 - - [15/Mar/2023:09:36:31 +0800] "GET /crm/RainbowSea/Rainbow/Sea HTTP/1.1" 200 66
+127.0.0.1 - - [15/Mar/2023:10:19:46 +0800] "GET /crm/RainbowSea/Rainbow/Sea HTTP/1.1" 200 66
+127.0.0.1 - - [15/Mar/2023:10:40:24 +0800] "GET /crm//RainbowSea/student/list HTTP/1.1" 200 73
+127.0.0.1 - - [15/Mar/2023:10:40:24 +0800] "GET /crm//RainbowSea/student/list HTTP/1.1" 200 73
+127.0.0.1 - - [15/Mar/2023:10:46:53 +0800] "GET /crm//RainbowSea/student/list HTTP/1.1" 200 86
