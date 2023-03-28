@@ -2,5 +2,5 @@ VSCode的快捷键
 代码格式化: shift+alt+f，复制下一行: shift+alt+上下键
 搜索文件: ctrl+shift+p，上下移动代码: alt+上下键
 当前文本的查找: ctrl+f，当前文本的查找和替换: ctrl+h
-隐藏侧边栏: ctrl+B，另起一行: ctrl+enter
+隐藏侧边栏: ctrl+B，另起一行: 默认是ctrl+enter，可自定义修改
 如果想选中所有此单词：ctrl+shift+L，切换主题的快捷键: ctrl+k,ctrl+t
