@@ -15,3 +15,5 @@ IDEA的快捷键:
 Diagrams(图表)：Ctrl+alt+B / 空格 搜索显示
 Diagrams(图表)：接口名/类名右键->Jump to Source 跳转源码
 Ctrl + O 重写方法的快捷键
+Alt + Insert 快捷功能打开
+代码区域全屏化:crtl+shift+F12
